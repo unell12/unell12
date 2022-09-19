@@ -8,15 +8,15 @@
 <h1>My Stats</h1>
 <br/>
 -->
-<div align="center">
+<!--<div align="center">
     Introduce
     <br/>
     - middle school student
     - frontend developer
     - 3rd year developer
-</div>
+</div>-->
     
-<div align="center">My status</div>
+<!--<div align="center">My status</div>-->
     <br/>
     <br/>
 stats<br/>
