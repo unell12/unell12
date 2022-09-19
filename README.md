@@ -19,5 +19,6 @@
 <div align="center">My status</div>
     <br/>
     <br/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apocarone&show_icons=true&theme=calm)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apocarone&layout=compact&theme=calm)
+stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Apocarone&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apocarone&layout=compact&theme=calm)
